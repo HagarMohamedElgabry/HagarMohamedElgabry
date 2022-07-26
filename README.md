@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning <a href ="https://www.udemy.com/course/api-testing-python/"><b> Step by Step Rest API Testing using Python + Pytest +Allure </b> </a>
 
-- 🔭 I’m currently working on Integrant Company. <a href ="https://integrant.com/"></a>
+- 🔭 I’m currently working on <a href ="https://integrant.com/"><b>Integrant Company</b> </a>
 
 
 <!-- - All of my projects are available at <a href="https://github.com/HagarMohamedElgabry"><b>Hagar Elgabry - Github Profile</b></a>
