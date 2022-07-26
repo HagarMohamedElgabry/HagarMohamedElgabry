@@ -15,9 +15,9 @@
 <!-- - 💻 All of my projects are available at <a href="https://github.com/HagarMohamedElgabry"><b>Hagar Elgabry - Github Profile</b></a> -->
 
 - 👨‍💻 I’m looking to collaborate on <a href="https://github.com/HagarMohamedElgabry"><b> Test Automation Frameworks Development (Web, Mobile and API)</b></a>
-	- <a href="https://github.com/stars/rajatt95/lists/selenium-automation-frameworks"> <b> <i> Selenium Automation Frameworks </i> </b> </a>
-	- <a href="https://github.com/stars/rajatt95/lists/appium-automation-frameworks"> <b> <i> Appium Automation Frameworks </i> </b> </a>	
-	- <a href="https://github.com/stars/rajatt95/lists/restassured-automation-framework"> <b> <i> RestAssured Automation Frameworks </i> </b> </a>
+	- <a href="https://github.com/HagarMohamedElgabry/Automation-Using-JavaScript"> <b> <i> Selenium Automation Frameworks </i> </b> </a>
+	- <a href="https://github.com/HagarMohamedElgabry/AppiumAutomationFrameworkUsingJava"> <b> <i> Appium Automation Frameworks </i> </b> </a>	
+	- <a href="https://github.com/stars/HagarMohamedElgabry/lists/restassured-automation-framework"> <b> <i> RestAssured Automation Frameworks </i> </b> </a>
 
 - 👨🏽‍💻 Programming languages
 	- <a href="https://github.com/stars/HagarMohamedElgabry/lists/programming-language-java"> <b> <i> Java </i> </b> </a>
