@@ -47,9 +47,7 @@
 			<li><h4>Web Automation</h4></li>
 			<ul style="list-style-type:circle">
 				<li> <a href="https://github.com/HagarMohamedElgabry/Automation-Using-JavaScript"> Selenium Framework (JavaScript) )</a> </li>	
-							<li> <a href="https://github.com/HagarMohamedElgabry/Automation-Using-JavaScript"> Selenium Framework (JavaScript) )</a> </li>	
-	
-		</ul>
+							<li> <a href="https://github.com/HagarMohamedElgabry/Automation-Using-JavaScript"> Selenium Framework (JavaScript) )</a> </li>	</ul>
 		<ul>
 			<li><h4>Mobile Automation</h4></li>
 			<ul style="list-style-type:circle">
@@ -58,7 +56,6 @@
 			<li> <a target="_blank" href="https://github.com/HagarMohamedElgabry/AppiumAutomationFramework-BDD"> 
                         Appium Framework with BDD (Java) </a> </li>	
 			
-		
 </article>
 
 <h3 align="left">Languages and Tools:</h3>
