@@ -47,7 +47,8 @@
 			<li><h4>Web Automation</h4></li>
 			<ul style="list-style-type:circle">
 				<li> <a href="https://github.com/HagarMohamedElgabry/Automation-Using-JavaScript"> Selenium Framework (JavaScript) )</a> </li>	
-							<li> <a href="https://github.com/HagarMohamedElgabry/Automation-Using-JavaScript"> Selenium Framework (JavaScript) )</a> </li>	</ul>
+			<li> <a href="https://github.com/HagarMohamedElgabry/Selenium-Framework"> Selenium Framework (Java Using Maven)</a> </li>
+		<li> <a href="https://github.com/HagarMohamedElgabry/GradleSeleniumFramework"> Selenium Framework (Java Using Gradle)</a> </li>	</ul>
 		<ul>
 			<li><h4>Mobile Automation</h4></li>
 			<ul style="list-style-type:circle">
